@@ -1,6 +1,6 @@
 # ExploreX
 
-**Live Demo:** https://explorex-spsb.vercel.app · **GitHub:** https://github.com/jatinsharma25/Explorex
+**Live Demo:** https://explorex-spsb.vercel.app 
 
 > Discover what's around you. Built for weekenders, wanderers, and anyone new to a city.
 
@@ -148,3 +148,4 @@ Explorex/
 ---
 
 Built by [Jatin Sharma](https://github.com/jatinsharma25)
+
