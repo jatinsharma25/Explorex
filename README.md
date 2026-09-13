@@ -1,6 +1,6 @@
 # ExploreX
 
-**Live Demo:** https://explorex-spsb.vercel.app · **GitHub:** https://github.com/JATIN-25-WATER/Explorex
+**Live Demo:** https://explorex-spsb.vercel.app · **GitHub:** https://github.com/jatinsharma25/Explorex
 
 > Discover what's around you. Built for weekenders, wanderers, and anyone new to a city.
 
@@ -78,7 +78,7 @@ score = 0.35 × proximity
 
 ```bash
 # 1. Clone
-git clone https://github.com/JATIN-25-WATER/Explorex.git
+git clone https://github.com/jatinsharma25/Explorex.git
 cd Explorex
 
 # 2. Start Postgres + Redis
@@ -147,4 +147,4 @@ Explorex/
 
 ---
 
-Built by [Jatin Sharma](https://github.com/JATIN-25-WATER)
+Built by [Jatin Sharma](https://github.com/jatinsharma25)
